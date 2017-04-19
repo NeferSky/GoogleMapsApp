@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GoogleMapsApp</string>
+    <string name="btnMapsCaption">GMaps</string>
+
+    <string name="rbAfricaCaption">Африка</string>
+    <string name="rbHimkiCaption">Химки</string>
+    <string name="rbBelgiumCaption">Бельгия</string>
+    <string name="rbDIvuarCatCaption">Кот Д\'Ивуар</string>
+    <string name="rbCoffeeShopsCaption">Магазины кофе возле Парижа</string>
+    <string name="rbCatsTheatreCaption">Театр кошек</string>
+    <string name="rbGrib">Просмотр улиц: Набережная Грибоедова</string>
+</resources>
